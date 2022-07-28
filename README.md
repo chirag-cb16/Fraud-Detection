@@ -1,12 +1,12 @@
 # Fraud-Detection
 I have developed a Credit Card Fraud Detection model to categorize a transaction as Fraud or Legitimate with very high accuracy using different Machine Learning Models.
 
-##Frameworks/Tools/Libraries used :
+## Frameworks/Tools/Libraries used :
 Pandas Dataframe
 Scikit-learn (Sklearn)
 Matplotlib
 
-###We have built the model using “StratifiedKFold Cross Validation” methodology.
+### We have built the model using “StratifiedKFold Cross Validation” methodology.
 This cross-validation  is a variation of KFold that returns stratified folds. The folds are made by preserving the percentage of samples for each class.
 The following models have been used based on this methodology :
 *Random Forest
